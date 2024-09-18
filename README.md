@@ -1,6 +1,6 @@
 # Simple File System Simulator
 
-This project is a **Simple File System Simulator** written in C++. It mimics basic file system operations such as creating, reading, and deleting files, using a simulated disk and free block management. The simulator demonstrates fundamental file handling, memory management, and file allocation techniques, making it a great demonstration of these concepts.
+This project is a **Simple File System Simulator** written in C++. It mimics basic file system operations such as creating, reading, and deleting files, using a simulated disk and free block management.
 
 **Note:** The system assumes that all files are strings (text files) and not binary files.
 
